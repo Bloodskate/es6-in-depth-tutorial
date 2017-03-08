@@ -1,0 +1,23 @@
+{
+  "name": "es6-in-depth-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bloodskate/es6-in-depth-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bloodskate/es6-in-depth-tutorial/issues"
+  },
+  "homepage": "https://github.com/Bloodskate/es6-in-depth-tutorial#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
